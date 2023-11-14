@@ -5,7 +5,7 @@
     "enableReachability": true,
     "enableLicenseViolations": true,
     "baseBranches": [],
-    "releaseBranches": ["v2023.4\\/.*"]
+    "releaseBranches": ["v2023.4.1"]
   },
     "imageSettings": {
     "imageTracing": {
