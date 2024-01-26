@@ -4,6 +4,7 @@
     "configExternalURL": "",
     "enableReachability": true,
     "enableLicenseViolations": true,
+    "exploitability": true,
     "baseBranches": [],
     "releaseBranches": ["v2023.4.1"]
   },
